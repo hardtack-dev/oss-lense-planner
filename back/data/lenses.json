@@ -1,0 +1,125 @@
+{
+  "_mounts": ["Sony E", "Canon RF", "Nikon Z", "Fujifilm X", "Leica L", "Micro Four Thirds"],
+  "lenses": [
+    {
+      "id": "wide_prime_24",
+      "role": "광각 단렌즈",
+      "equiv_focal": "≈24mm 환산",
+      "type": "단렌즈",
+      "good_for": ["풍경", "건축", "실내", "스냅"],
+      "by_mount": {
+        "Sony E":            { "product": "소니 FE 24mm F2.8 G",                "focal_min": 24, "focal_max": 24, "max_aperture": 2.8, "weight": 162, "price": 750000 },
+        "Canon RF":          { "product": "캐논 RF 24mm F1.8 Macro IS STM",     "focal_min": 24, "focal_max": 24, "max_aperture": 1.8, "weight": 270, "price": 850000 },
+        "Nikon Z":           { "product": "니콘 Z 24mm f/1.8 S",                "focal_min": 24, "focal_max": 24, "max_aperture": 1.8, "weight": 450, "price": 1300000 },
+        "Fujifilm X":        { "product": "후지필름 XF 16mm F2.8 R WR",         "focal_min": 16, "focal_max": 16, "max_aperture": 2.8, "weight": 155, "price": 550000 },
+        "Leica L":           { "product": "파나소닉 LUMIX S 24mm F1.8",         "focal_min": 24, "focal_max": 24, "max_aperture": 1.8, "weight": 310, "price": 950000 },
+        "Micro Four Thirds": { "product": "올림푸스 M.ZUIKO 12mm F2.0",         "focal_min": 12, "focal_max": 12, "max_aperture": 2.0, "weight": 130, "price": 900000 }
+      }
+    },
+    {
+      "id": "std_prime_35",
+      "role": "준광각 단렌즈",
+      "equiv_focal": "≈35mm 환산",
+      "type": "단렌즈",
+      "good_for": ["일상", "스냅", "거리", "여행"],
+      "by_mount": {
+        "Sony E":            { "product": "소니 FE 35mm F1.8",                  "focal_min": 35, "focal_max": 35, "max_aperture": 1.8, "weight": 280, "price": 750000 },
+        "Canon RF":          { "product": "캐논 RF 35mm F1.8 Macro IS STM",     "focal_min": 35, "focal_max": 35, "max_aperture": 1.8, "weight": 305, "price": 700000 },
+        "Nikon Z":           { "product": "니콘 Z 35mm f/1.8 S",                "focal_min": 35, "focal_max": 35, "max_aperture": 1.8, "weight": 370, "price": 1000000 },
+        "Fujifilm X":        { "product": "후지필름 XF 23mm F2 R WR",           "focal_min": 23, "focal_max": 23, "max_aperture": 2.0, "weight": 180, "price": 550000 },
+        "Leica L":           { "product": "파나소닉 LUMIX S 35mm F1.8",         "focal_min": 35, "focal_max": 35, "max_aperture": 1.8, "weight": 295, "price": 850000 },
+        "Micro Four Thirds": { "product": "파나소닉 LEICA DG 15mm F1.7",        "focal_min": 15, "focal_max": 15, "max_aperture": 1.7, "weight": 115, "price": 700000 }
+      }
+    },
+    {
+      "id": "std_prime_50",
+      "role": "표준 단렌즈",
+      "equiv_focal": "≈50mm 환산",
+      "type": "단렌즈",
+      "good_for": ["인물", "일상", "실내", "음식"],
+      "by_mount": {
+        "Sony E":            { "product": "소니 FE 50mm F1.8",                  "focal_min": 50, "focal_max": 50, "max_aperture": 1.8, "weight": 186, "price": 240000 },
+        "Canon RF":          { "product": "캐논 RF 50mm F1.8 STM",              "focal_min": 50, "focal_max": 50, "max_aperture": 1.8, "weight": 160, "price": 270000 },
+        "Nikon Z":           { "product": "니콘 Z 50mm f/1.8 S",                "focal_min": 50, "focal_max": 50, "max_aperture": 1.8, "weight": 415, "price": 830000 },
+        "Fujifilm X":        { "product": "후지필름 XF 35mm F2 R WR",           "focal_min": 35, "focal_max": 35, "max_aperture": 2.0, "weight": 170, "price": 520000 },
+        "Leica L":           { "product": "파나소닉 LUMIX S 50mm F1.8",         "focal_min": 50, "focal_max": 50, "max_aperture": 1.8, "weight": 300, "price": 520000 },
+        "Micro Four Thirds": { "product": "올림푸스 M.ZUIKO 25mm F1.8",         "focal_min": 25, "focal_max": 25, "max_aperture": 1.8, "weight": 137, "price": 500000 }
+      }
+    },
+    {
+      "id": "tele_prime_85",
+      "role": "망원 단렌즈",
+      "equiv_focal": "≈85mm 환산",
+      "type": "단렌즈",
+      "good_for": ["인물", "클로즈업", "공연"],
+      "by_mount": {
+        "Sony E":            { "product": "소니 FE 85mm F1.8",                  "focal_min": 85, "focal_max": 85, "max_aperture": 1.8, "weight": 371, "price": 750000 },
+        "Canon RF":          { "product": "캐논 RF 85mm F2 Macro IS STM",       "focal_min": 85, "focal_max": 85, "max_aperture": 2.0, "weight": 500, "price": 900000 },
+        "Nikon Z":           { "product": "니콘 Z 85mm f/1.8 S",                "focal_min": 85, "focal_max": 85, "max_aperture": 1.8, "weight": 470, "price": 1100000 },
+        "Fujifilm X":        { "product": "후지필름 XF 56mm F1.2 R WR",         "focal_min": 56, "focal_max": 56, "max_aperture": 1.2, "weight": 405, "price": 1300000 },
+        "Leica L":           { "product": "파나소닉 LUMIX S 85mm F1.8",         "focal_min": 85, "focal_max": 85, "max_aperture": 1.8, "weight": 355, "price": 800000 },
+        "Micro Four Thirds": { "product": "올림푸스 M.ZUIKO 45mm F1.8",         "focal_min": 45, "focal_max": 45, "max_aperture": 1.8, "weight": 116, "price": 450000 }
+      }
+    },
+    {
+      "id": "std_zoom_2470",
+      "role": "표준 줌",
+      "equiv_focal": "≈24-105mm 환산",
+      "type": "줌렌즈",
+      "good_for": ["여행", "일상", "행사", "만능"],
+      "by_mount": {
+        "Sony E":            { "product": "소니 FE 24-105mm F4 G OSS",          "focal_min": 24, "focal_max": 105, "max_aperture": 4.0, "weight": 663, "price": 1600000 },
+        "Canon RF":          { "product": "캐논 RF 24-105mm F4 L IS USM",       "focal_min": 24, "focal_max": 105, "max_aperture": 4.0, "weight": 700, "price": 1500000 },
+        "Nikon Z":           { "product": "니콘 Z 24-70mm f/4 S",               "focal_min": 24, "focal_max": 70,  "max_aperture": 4.0, "weight": 500, "price": 1100000 },
+        "Fujifilm X":        { "product": "후지필름 XF 18-55mm F2.8-4 R LM OIS","focal_min": 18, "focal_max": 55,  "max_aperture": 2.8, "weight": 310, "price": 750000 },
+        "Leica L":           { "product": "파나소닉 LUMIX S 20-60mm F3.5-5.6",  "focal_min": 20, "focal_max": 60,  "max_aperture": 3.5, "weight": 350, "price": 700000 },
+        "Micro Four Thirds": { "product": "파나소닉 LUMIX G 12-60mm F3.5-5.6",  "focal_min": 12, "focal_max": 60,  "max_aperture": 3.5, "weight": 210, "price": 500000 }
+      }
+    },
+    {
+      "id": "wide_zoom_1635",
+      "role": "광각 줌",
+      "equiv_focal": "≈16-35mm 환산",
+      "type": "줌렌즈",
+      "good_for": ["풍경", "건축", "실내", "단체"],
+      "by_mount": {
+        "Sony E":            { "product": "소니 FE 16-35mm F4 PZ G",           "focal_min": 16, "focal_max": 35, "max_aperture": 4.0, "weight": 353, "price": 1400000 },
+        "Canon RF":          { "product": "캐논 RF 15-30mm F4.5-6.3 IS STM",   "focal_min": 15, "focal_max": 30, "max_aperture": 4.5, "weight": 390, "price": 700000 },
+        "Nikon Z":           { "product": "니콘 Z 14-30mm f/4 S",              "focal_min": 14, "focal_max": 30, "max_aperture": 4.0, "weight": 485, "price": 1400000 },
+        "Fujifilm X":        { "product": "후지필름 XF 10-24mm F4 R OIS WR",   "focal_min": 10, "focal_max": 24, "max_aperture": 4.0, "weight": 385, "price": 1100000 },
+        "Leica L":           { "product": "파나소닉 LUMIX S 16-35mm F4",        "focal_min": 16, "focal_max": 35, "max_aperture": 4.0, "weight": 500, "price": 1200000 },
+        "Micro Four Thirds": { "product": "올림푸스 M.ZUIKO 9-18mm F4-5.6",     "focal_min": 9,  "focal_max": 18, "max_aperture": 4.0, "weight": 155, "price": 650000 }
+      }
+    },
+    {
+      "id": "tele_zoom_70200",
+      "role": "망원 줌",
+      "equiv_focal": "≈70-200mm 환산",
+      "type": "줌렌즈",
+      "good_for": ["스포츠", "야생", "공연", "망원압축"],
+      "by_mount": {
+        "Sony E":            { "product": "소니 FE 70-200mm F4 Macro G OSS II","focal_min": 70, "focal_max": 200, "max_aperture": 4.0, "weight": 794,  "price": 2100000 },
+        "Canon RF":          { "product": "캐논 RF 70-200mm F4 L IS USM",      "focal_min": 70, "focal_max": 200, "max_aperture": 4.0, "weight": 695,  "price": 2000000 },
+        "Nikon Z":           { "product": "니콘 Z 70-180mm f/2.8",             "focal_min": 70, "focal_max": 180, "max_aperture": 2.8, "weight": 795,  "price": 1700000 },
+        "Fujifilm X":        { "product": "후지필름 XF 70-300mm F4-5.6 R LM OIS WR", "focal_min": 70, "focal_max": 300, "max_aperture": 4.0, "weight": 580, "price": 1000000 },
+        "Leica L":           { "product": "파나소닉 LUMIX S 70-300mm F4.5-5.6", "focal_min": 70, "focal_max": 300, "max_aperture": 4.5, "weight": 790, "price": 1300000 },
+        "Micro Four Thirds": { "product": "파나소닉 LUMIX G 35-100mm F2.8 II",  "focal_min": 35, "focal_max": 100, "max_aperture": 2.8, "weight": 360, "price": 1300000 }
+      }
+    },
+    {
+      "id": "macro_90",
+      "role": "매크로",
+      "equiv_focal": "≈90-105mm 환산",
+      "type": "매크로",
+      "good_for": ["접사", "제품", "꽃", "디테일"],
+      "by_mount": {
+        "Sony E":            { "product": "소니 FE 90mm F2.8 Macro G OSS",     "focal_min": 90,  "focal_max": 90,  "max_aperture": 2.8, "weight": 602, "price": 1300000 },
+        "Canon RF":          { "product": "캐논 RF 100mm F2.8 L Macro IS USM", "focal_min": 100, "focal_max": 100, "max_aperture": 2.8, "weight": 730, "price": 1700000 },
+        "Nikon Z":           { "product": "니콘 Z MC 105mm f/2.8 VR S",        "focal_min": 105, "focal_max": 105, "max_aperture": 2.8, "weight": 630, "price": 1300000 },
+        "Fujifilm X":        { "product": "후지필름 XF 80mm F2.8 Macro OIS WR", "focal_min": 80, "focal_max": 80,  "max_aperture": 2.8, "weight": 750, "price": 1400000 },
+        "Leica L":           { "product": "파나소닉 LUMIX S 100mm F2.8 Macro",  "focal_min": 100, "focal_max": 100, "max_aperture": 2.8, "weight": 298, "price": 1200000 },
+        "Micro Four Thirds": { "product": "올림푸스 M.ZUIKO 60mm F2.8 Macro",   "focal_min": 60,  "focal_max": 60,  "max_aperture": 2.8, "weight": 185, "price": 600000 }
+      }
+    }
+  ]
+}

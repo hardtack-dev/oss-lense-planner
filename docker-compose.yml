@@ -1,0 +1,16 @@
+# docker-compose.yml (front + back 2컨테이너 실행 및 연결)
+services:
+  back:
+    build: ./back
+    ports:
+      - "8000:8000"
+
+  front:
+    build: ./front
+    ports:
+      - "8501:8501"
+    environment:
+      # 컨테이너끼리는 서비스 이름으로 통신 (back = 위 서비스명)
+      - BACKEND_URL=http://back:8000
+    depends_on:
+      - back   # back을 먼저 시작

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.checkpoints/
+download_assets.py
+lens_assets.csv

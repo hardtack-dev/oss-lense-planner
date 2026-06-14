@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# 작업용 임시 파일 (제출 불필요)
+.checkpoints/
+
+# 다른 프로젝트 폴더 (이 저장소에 포함하지 않음)
+streamlit-camera/
+
+# 에디터,도구 설정
+.vscode/
+.idea/
+
+# 기획,문서, 개발 비관련 문서 제외
+기획_렌즈플래너.md
+WIREFRAME.md
+진행상황.md
+기술문서.md
+기말 과제 대본.md
+기말고사 대체 과제.md
+
+# 보조 스크립트,데이터 
+lens_assets.csv
+front/download_assets.py
+wireframe_preview.py
+
+# OS
+.DS_Store
+Thumbs.db

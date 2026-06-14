@@ -1,0 +1,154 @@
+{
+  "bodies": [
+    {
+      "id": "sony_a7c2",
+      "title": "소니 A7C2",
+      "brand": "Sony",
+      "mount": "Sony E",
+      "sensor": "풀프레임",
+      "crop": 1.0,
+      "sensor_w_mm": 35.9,
+      "sensor_h_mm": 24.0,
+      "image_url": "images/cameras/Sony_Hybrid_A7C2.png"
+    },
+    {
+      "id": "sony_zve1",
+      "title": "소니 ZV-E1",
+      "brand": "Sony",
+      "mount": "Sony E",
+      "sensor": "풀프레임",
+      "crop": 1.0,
+      "sensor_w_mm": 35.6,
+      "sensor_h_mm": 23.8,
+      "image_url": "images/cameras/Sony_Video_ZVE1.png"
+    },
+    {
+      "id": "canon_r5",
+      "title": "캐논 EOS R5",
+      "brand": "Canon",
+      "mount": "Canon RF",
+      "sensor": "풀프레임",
+      "crop": 1.0,
+      "sensor_w_mm": 36.0,
+      "sensor_h_mm": 24.0,
+      "image_url": "images/cameras/Canon_Photo_EOSR5.png"
+    },
+    {
+      "id": "sony_a7rv",
+      "title": "소니 A7RV",
+      "brand": "Sony",
+      "mount": "Sony E",
+      "sensor": "풀프레임",
+      "crop": 1.0,
+      "sensor_w_mm": 35.7,
+      "sensor_h_mm": 23.8,
+      "image_url": "images/cameras/Sony_Photo_A7RV.png"
+    },
+    {
+      "id": "canon_r8",
+      "title": "캐논 EOS R8",
+      "brand": "Canon",
+      "mount": "Canon RF",
+      "sensor": "풀프레임",
+      "crop": 1.0,
+      "sensor_w_mm": 35.9,
+      "sensor_h_mm": 23.9,
+      "image_url": "images/cameras/Canon_Hybrid_EOSR8.png"
+    },
+    {
+      "id": "canon_r50",
+      "title": "캐논 EOS R50",
+      "brand": "Canon",
+      "mount": "Canon RF",
+      "sensor": "APS-C",
+      "crop": 1.6,
+      "sensor_w_mm": 22.3,
+      "sensor_h_mm": 14.9,
+      "image_url": "images/cameras/Canon_Crop_EOSR50.png"
+    },
+    {
+      "id": "nikon_zf",
+      "title": "니콘 Zf",
+      "brand": "Nikon",
+      "mount": "Nikon Z",
+      "sensor": "풀프레임",
+      "crop": 1.0,
+      "sensor_w_mm": 35.9,
+      "sensor_h_mm": 23.9,
+      "image_url": "images/cameras/Nikon_Photo_Zf.png"
+    },
+    {
+      "id": "fuji_xt5",
+      "title": "후지필름 X-T5",
+      "brand": "Fujifilm",
+      "mount": "Fujifilm X",
+      "sensor": "APS-C",
+      "crop": 1.5,
+      "sensor_w_mm": 23.5,
+      "sensor_h_mm": 15.6,
+      "image_url": "images/cameras/Fuji_Photo_XT5.png"
+    },
+    {
+      "id": "pana_s5iix",
+      "title": "파나소닉 S5IIX",
+      "brand": "Panasonic",
+      "mount": "Leica L",
+      "sensor": "풀프레임",
+      "crop": 1.0,
+      "sensor_w_mm": 35.6,
+      "sensor_h_mm": 23.8,
+      "image_url": "images/cameras/Pana_Video_S5IIX.png"
+    },
+    {
+      "id": "pana_g9ii",
+      "title": "파나소닉 G9 II",
+      "brand": "Panasonic",
+      "mount": "Micro Four Thirds",
+      "sensor": "마이크로포서드",
+      "crop": 2.0,
+      "sensor_w_mm": 17.3,
+      "sensor_h_mm": 13.0,
+      "image_url": "images/cameras/Panasonic_M43_G9II.png"
+    },
+    {
+      "id": "sony_a6700",
+      "title": "소니 α6700",
+      "brand": "Sony",
+      "mount": "Sony E",
+      "sensor": "APS-C",
+      "crop": 1.5,
+      "sensor_w_mm": 23.5,
+      "sensor_h_mm": 15.6
+    },
+    {
+      "id": "canon_r10",
+      "title": "캐논 EOS R10",
+      "brand": "Canon",
+      "mount": "Canon RF",
+      "sensor": "APS-C",
+      "crop": 1.6,
+      "sensor_w_mm": 22.3,
+      "sensor_h_mm": 14.9
+    },
+    {
+      "id": "nikon_z50ii",
+      "title": "니콘 Z50 II",
+      "brand": "Nikon",
+      "mount": "Nikon Z",
+      "sensor": "APS-C",
+      "crop": 1.5,
+      "sensor_w_mm": 23.5,
+      "sensor_h_mm": 15.7
+    },
+    {
+      "id": "fuji_xs20",
+      "title": "후지필름 X-S20",
+      "brand": "Fujifilm",
+      "mount": "Fujifilm X",
+      "sensor": "APS-C",
+      "crop": 1.5,
+      "sensor_w_mm": 23.5,
+      "sensor_h_mm": 15.6
+    }
+  ]
+}
